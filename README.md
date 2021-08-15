@@ -18,8 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - ![Profile views](https://gpvc.arturio.dev/SenuGamerBoy)
-<h3>Quick Links</h3>
-<a href="https://github.com/SenuGamerBoy"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
+  <a href="https://github.com/SenuGamerBoy"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 
 
 
