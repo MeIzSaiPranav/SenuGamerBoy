@@ -18,9 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - ![Profile views](https://gpvc.arturio.dev/SenuGamerBoy)
-- <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/SenuGamerBoy" data-size="large" data-show-count="true" aria-label="Follow @SenuGamerBoy on GitHub">Follow @SenuGamerBoy</a>
-
+- <a href="https://github.com/SenuGamerBoy"><img src="https://img.shields.io/github/followers/SenuGamerBoy.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 
 
 
