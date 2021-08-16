@@ -14,7 +14,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
-![SenuGamerBoy's GitHub Status](https://github-readme-stats.vercel.app/api?username=SenuGamerBoy&theme=dark&show_icons=true)
+<a href="https://github.com/SenuGamerBoy/handle-path-oz">
+    <img align="center" alt="Senu Gamer Boy's github stats" src="https://github-readme-stats.vercel.app/api?username=SenuGamerBoy&show_icons=true&theme=midnight-purple" />
+  </a>
+
+<br>
+<br>
 
 
 - ![Profile views](https://gpvc.arturio.dev/SenuGamerBoy)
