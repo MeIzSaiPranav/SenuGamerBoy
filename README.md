@@ -61,4 +61,3 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.youtube.com/channel/UC1wH-dZk86lrWkkQ3mdV3gQ" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-![VisitorCount](https://profile-counter.glitch.me/{SenuGamerBoy}/count.svg)
