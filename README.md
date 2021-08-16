@@ -28,7 +28,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-
 # MY TOOLS AND LANG
 
 <p align ="left">
