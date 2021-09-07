@@ -26,6 +26,7 @@ You can use the website to generate badges: https://shields.io/
 - ![GitHub followers](https://img.shields.io/github/followers/SenuGamerBoy?style=social)
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=SenuGamerBoy)](https://github.com/SenuGamerBoy)
 
+scr="https://github.com/SenuGamerBoy/SenuGamerBoy/blob/main/hula_loop_octodex03.gif?raw=true" width="100px"
 
 
 # MY TOOLS AND LANG
