@@ -53,7 +53,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-# MOST USED LANGUAGES
+# MOST USED LANGUAGES <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenuGamerBoy&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
