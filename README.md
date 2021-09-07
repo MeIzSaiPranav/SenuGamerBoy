@@ -58,7 +58,7 @@ You can use the website to generate badges: https://shields.io/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenuGamerBoy&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# CONTACT ME ON
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> CONTACT ME ON
 
 <p align="left">
 <a href="https://t.me/SenuGamerBoy" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
