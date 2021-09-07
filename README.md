@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=SenuGamerBoy)](https://github.com/SenuGamerBoy)
 
 
-
+src="https://octodex.github.com/images/NUX_Octodex.gif" width="50px">
 
 
 
