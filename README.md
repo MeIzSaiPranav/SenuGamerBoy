@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : SenuInfinity  <br>
+-  🔭 I’m currently working on : Senu Infinity  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-12-yellow) Teen 😄
