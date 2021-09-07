@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-### My Github Status
+<h2> My Github Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 ![SenuGamerBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenuGamerBoy&count_private=true)
 
 
