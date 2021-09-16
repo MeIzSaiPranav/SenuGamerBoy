@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 
 - ![Profile views](https://gpvc.arturio.dev/SenuGamerBoy)
 - ![GitHub followers](https://img.shields.io/github/followers/SenuGamerBoy?style=social)
-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=SenuGamerBoy)](https://github.com/SenuGamerBoy)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=SenuGamerBoy)](https://github.com/SenuGamerBoy)
 
 
 
