@@ -21,6 +21,7 @@ You can use the website to generate badges: https://shields.io/
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 -  💬 Ask me about anything, I am happy to help;
 -  🎯 Contribute and create open source projects
+-  📚 I'm studying Python | English
 
 
 
