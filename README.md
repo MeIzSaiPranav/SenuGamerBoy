@@ -22,6 +22,7 @@ You can use the website to generate badges: https://shields.io/
 -  💬 Ask me about anything, I am happy to help;
 -  🎯 Contribute and create open source projects
 -  📚 I'm studying Python | English
+-  🎮 Find me in the gaming world: <b>SenuGamerBoy</b>
 
 
 
